@@ -1,0 +1,106 @@
+﻿dia;nome_exercicio;carga;tipo_de_carga;sets;repeticoes;treino
+09/01/2025;Esteira;10;minutos;1;1;a
+09/01/2025;Abdominal brace;110;repetições;3;1;a
+09/01/2025;Adução de quadril;114;kg;3;18;a
+09/01/2025;Pec fly;83;kg;3;18;a
+09/01/2025;Leg Press Assento;84;kg;3;18;a
+09/01/2025;Triceps Polia;182;kg;3;18;a
+09/01/2025;Cadeira Flexora;140;kg;3;18;a
+09/01/2025;Esteira;62;minutos;1;1;a
+10/01/2025;Remo com máquina de remar;182;metros;1;1;b
+10/01/2025;Prancha;197;segundos;3;1;b
+10/01/2025;Dogsled;46;kg;3;2;b
+10/01/2025;Agachamento máquina;139;kg;3;18;b
+10/01/2025;Supino Máquina;17;kg;3;18;b
+10/01/2025;Abdução de quadril;132;kg;3;18;b
+10/01/2025;Flexão dos cotovelos;23;kg;3;18;b
+10/01/2025;Remada;123;kg;3;18;b
+10/01/2025;Caminhar;9;minutos;1;1;b
+11/01/2025;Esteira;51;minutos;1;1;a
+11/01/2025;Abdominal brace;90;repetições;3;1;a
+11/01/2025;Adução de quadril;158;kg;3;18;a
+11/01/2025;Pec fly;51;kg;3;18;a
+11/01/2025;Leg Press Assento;65;kg;3;18;a
+11/01/2025;Triceps Polia;73;kg;3;18;a
+11/01/2025;Cadeira Flexora;70;kg;3;18;a
+11/01/2025;Esteira;41;minutos;1;1;a
+12/01/2025;Remo com máquina de remar;48;metros;1;1;b
+12/01/2025;Prancha;162;segundos;3;1;b
+12/01/2025;Dogsled;5;kg;3;2;b
+12/01/2025;Agachamento máquina;6;kg;3;18;b
+12/01/2025;Supino Máquina;179;kg;3;18;b
+12/01/2025;Abdução de quadril;94;kg;3;18;b
+12/01/2025;Flexão dos cotovelos;126;kg;3;18;b
+12/01/2025;Remada;159;kg;3;18;b
+12/01/2025;Caminhar;39;minutos;1;1;b
+13/01/2025;Esteira;113;minutos;1;1;a
+13/01/2025;Abdominal brace;169;repetições;3;1;a
+13/01/2025;Adução de quadril;194;kg;3;18;a
+13/01/2025;Pec fly;161;kg;3;18;a
+13/01/2025;Leg Press Assento;85;kg;3;18;a
+13/01/2025;Triceps Polia;15;kg;3;18;a
+13/01/2025;Cadeira Flexora;109;kg;3;18;a
+13/01/2025;Esteira;96;minutos;1;1;a
+14/01/2025;Remo com máquina de remar;12;metros;1;1;b
+14/01/2025;Prancha;24;segundos;3;1;b
+14/01/2025;Dogsled;152;kg;3;2;b
+14/01/2025;Agachamento máquina;196;kg;3;18;b
+14/01/2025;Supino Máquina;64;kg;3;18;b
+14/01/2025;Abdução de quadril;176;kg;3;18;b
+14/01/2025;Flexão dos cotovelos;23;kg;3;18;b
+14/01/2025;Remada;97;kg;3;18;b
+14/01/2025;Caminhar;111;minutos;1;1;b
+15/01/2025;Esteira;66;minutos;1;1;a
+15/01/2025;Abdominal brace;45;repetições;3;1;a
+15/01/2025;Adução de quadril;99;kg;3;18;a
+15/01/2025;Pec fly;135;kg;3;18;a
+15/01/2025;Leg Press Assento;129;kg;3;18;a
+15/01/2025;Triceps Polia;67;kg;3;18;a
+15/01/2025;Cadeira Flexora;138;kg;3;18;a
+15/01/2025;Esteira;159;minutos;1;1;a
+16/01/2025;Remo com máquina de remar;35;metros;1;1;b
+16/01/2025;Prancha;26;segundos;3;1;b
+16/01/2025;Dogsled;26;kg;3;2;b
+16/01/2025;Agachamento máquina;131;kg;3;18;b
+16/01/2025;Supino Máquina;26;kg;3;18;b
+16/01/2025;Abdução de quadril;168;kg;3;18;b
+16/01/2025;Flexão dos cotovelos;11;kg;3;18;b
+16/01/2025;Remada;18;kg;3;18;b
+16/01/2025;Caminhar;95;minutos;1;1;b
+17/01/2025;Esteira;107;minutos;1;1;a
+17/01/2025;Abdominal brace;191;repetições;3;1;a
+17/01/2025;Adução de quadril;16;kg;3;18;a
+17/01/2025;Pec fly;89;kg;3;18;a
+17/01/2025;Leg Press Assento;195;kg;3;18;a
+17/01/2025;Triceps Polia;91;kg;3;18;a
+17/01/2025;Cadeira Flexora;180;kg;3;18;a
+17/01/2025;Esteira;192;minutos;1;1;a
+18/01/2025;Remo com máquina de remar;105;metros;1;1;b
+18/01/2025;Prancha;179;segundos;3;1;b
+18/01/2025;Dogsled;82;kg;3;2;b
+18/01/2025;Agachamento máquina;162;kg;3;18;b
+18/01/2025;Supino Máquina;99;kg;3;18;b
+18/01/2025;Abdução de quadril;191;kg;3;18;b
+18/01/2025;Flexão dos cotovelos;12;kg;3;18;b
+18/01/2025;Remada;62;kg;3;18;b
+18/01/2025;Caminhar;197;minutos;1;1;b
+19/01/2025;Esteira;96;minutos;1;1;a
+19/01/2025;Abdominal brace;114;repetições;3;1;a
+19/01/2025;Adução de quadril;190;kg;3;18;a
+19/01/2025;Pec fly;158;kg;3;18;a
+19/01/2025;Leg Press Assento;51;kg;3;18;a
+19/01/2025;Triceps Polia;140;kg;3;18;a
+19/01/2025;Cadeira Flexora;30;kg;3;18;a
+19/01/2025;Esteira;135;minutos;1;1;a
+20/01/2025;Remo com máquina de remar;156;metros;1;1;b
+20/01/2025;Prancha;75;segundos;3;1;b
+20/01/2025;Dogsled;142;kg;3;2;b
+20/01/2025;Agachamento máquina;88;kg;3;18;b
+20/01/2025;Supino Máquina;189;kg;3;18;b
+20/01/2025;Abdução de quadril;71;kg;3;18;b
+20/01/2025;Flexão dos cotovelos;20;kg;3;18;b
+20/01/2025;Remada;197;kg;3;18;b
+20/01/2025;Caminhar;32;minutos;1;1;b
+21/01/2025;Caminhar;32;minutos;1;1;c
+22/01/2025;Caminhar;32;minutos;1;1;d
+23/01/2025;Caminhar;32;minutos;1;1;e

@@ -1,0 +1,7 @@
+dia;peso;massa_magra;mm_braco_esq;mm_braco_dir;mm_perna_esq;mm_perna_dir;mm_tronco;gordura_visceral;gordura_subcutanea;g_braco_esq;g_braco_dir;g_perna_esq;g_perna_dir;g_tronco;taxa_metabolica
+09/01/2025;89.9;12;4;4;4;4;4;12;20;4;4;4;4;4;1800
+15/01/2025;88.9;12;4;4;4;4;6;12;20;4;4;4;4;4;1800
+09/02/2025;87.9;12;6;6;6;6;7;12;20;4;4;4;4;4;1900
+15/02/2025;87.6;12;6;6;6;6;8;12;20;4;4;4;4;4;1900
+09/03/2025;87.0;12;6;6;6;6;9;12;20;4;4;4;4;4;2000
+09/04/2025;86.0;12;9;9;9;9;9;12;20;4;4;4;4;4;2000
