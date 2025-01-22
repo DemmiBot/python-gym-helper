@@ -16,7 +16,7 @@ treino_filtered = treino_df[(pd.to_datetime(range[0], format="%d/%m/%Y") <= trei
 st.write("# Carga dos exercicios")
 st.write("Essas são as cargas que você anotou durante os dias em que você se exercitou. Os gráficos são interativos, você pode testar clicando e arrastando o mouse pelo gráfico, ou utilizando as opções padrão. caso você não esteja vendo nenhum treino, você precisa executar o app de treinos e inserir um novo treino!")
 
-exercicios = treino_df["exercicios"].unique().tolist()
+exercicios = treino_filtered["exercicios"].unique().tolist()
 exercicios_df = []
 
 cols = st.columns(6)
